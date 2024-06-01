@@ -1,8 +1,8 @@
-# My Blog Text
+# My Blog Post
 
-Welcome to MyBlogText - Your Ultimate Blogging Platform
+Welcome to MyBlogPost - Your Ultimate Blogging Platform
 Elevate Your Writing Experience
-At MyBlogText, we believe that every voice deserves to be heard. Our platform is designed to empower everyone like you to express your thoughts, share your stories, and connect with a global audience. Whether you're a seasoned writer or just starting your writing journey, MyblogText provides the perfect space to showcase your creativity
+At MyBlogPost, we believe that every voice deserves to be heard. Our platform is designed to empower everyone like you to express your thoughts, share your stories, and connect with a global audience. Whether you're a seasoned writer or just starting your writing journey, MyblogPost provides the perfect space to showcase your creativity
 
 
 <h3> TABLES OF CONTENTS </h3>
@@ -24,11 +24,11 @@ Easy Navigation: Intuitive navigation to help you find and read articles seamles
 <h3> INSTALLATION </h3>
 
 1. Clone the Repository:
-git clone https://github.com/your-username/your-blog.git
+git clone https://github.com/admens2008/BlogPost.git
 
 2. Navigate to the Project Directory:
 
- cd your-blog 
+ cd BlogPost 
 
 3. Install Dependencies:
 
@@ -70,15 +70,12 @@ Submit a pull request.
 
 ##  Authors 
 
-##  Visit our [GitHub][github] 
+##  Visit my [GitHub][github] 
 
- https://github.com/Abstaina44
+[ https://github.com/pascallino](https://github.com/admens2008)
 
- https://github.com/pascallino
 
-[Github]: [Ephraim]https://github.com/Abstaina44
-
-[Github]: [Pascal]https://github.com/pascallino
+[Github]: [Emmanuel adjei mensah]https://github.com/admens2008
 
 
 Thank you for visiting our blog repository! 
@@ -87,6 +84,6 @@ All contributions are welcome.
 
 This is an ALX-Project 
 
-BlogText Landing Page
+BlogPost Landing Page
 
-<img width="1271" alt="Screenshot 2023-12-07 at 05 53 10" src="https://github.com/Abstaina44/ALX-Portfolio-Project/assets/48015890/8b48afef-b4b6-4e69-a760-164874c46965">
+<img width="1271" alt="Screenshot 2023-12-07 at 05 53 10" src="http://web-01.admens.tech/portfolio">
