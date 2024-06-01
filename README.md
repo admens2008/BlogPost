@@ -72,7 +72,7 @@ Submit a pull request.
 
 ##  Visit my [GitHub]
 
-[ https://github.com/pascallino](https://github.com/admens2008)
+[https://github.com/admens2008](https://github.com/admens2008)
 
 
 [Github]: [Emmanuel adjei mensah]https://github.com/admens2008
