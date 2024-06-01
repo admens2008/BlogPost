@@ -70,7 +70,7 @@ Submit a pull request.
 
 ##  Authors 
 
-##  Visit my [GitHub][github] 
+##  Visit my [GitHub]
 
 [ https://github.com/pascallino](https://github.com/admens2008)
 
