@@ -29,6 +29,7 @@ MarkupSafe
 mysqlclient
 passlib
 PyJWT
+PyMySQL==1.1.0
 pytz
 speaklater
 SQLAlchemy

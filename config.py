@@ -7,7 +7,10 @@ class Config:
     JWT_ACCESS_TOKEN_EXPIRES = 3600
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     UPLOAD_FOLDER = base_url
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(base_url, 'Database.db')
+    password = 'Blog'
+    db = f'mysql+pymysql://Blog:{password}@localhost:3306/Blog'
+    SQLALCHEMY_DATABASE_URI = db
+    #SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(base_url, 'Database.db')
     SECRET_KEY = "7JNJHGHjhhjjFF"
     SECURITY_PASSWORD_SALT = "jdjkldkkklfk"
     SECURITY_PASSWORD_HASH = "sha512_crypt"

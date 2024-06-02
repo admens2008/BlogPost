@@ -3,7 +3,7 @@
 
     {% block contents %}
     <h3> Profile section</h3>
-    Share profile url => <input type="text" readonly style="width: 530px;" id="textToCopy" value="http://127.0.0.1:5000/blog/{{ current_user.userid }}/">
+    Share profile url => <input type="text" readonly style="width: 530px;" id="textToCopy" value="http://web-02.admens.tech/blog/{{ current_user.userid }}/">
     <button id="copybtn" onclick="copyText()">Copy</button>
     <div class="signup-container">
         {% with messages = get_flashed_messages() %}

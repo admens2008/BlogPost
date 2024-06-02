@@ -190,7 +190,7 @@ def post_create():
             filename = secure_filename(image.filename)
             image.save(os.path.join(app.config['UPLOAD_FOLDER'] + '/static/', filename))
             filepath = filename
-        post = Post(title=title, body=body, filepath=filepath, user_id="f6115d2d-50ac-4bc5-8f15-1d555cd90562")
+        post = Post(title=title, body=body, filepath=filepath, user_id=user.userid)
         db.session.add(post)
         print(taglist)
         if len(taglist) > 0:

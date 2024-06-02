@@ -95,7 +95,7 @@ class Post(db.Model):
     body = db.Column(db.Text)
     filepath = db.Column(db.String(1000))
     created = db.Column(db.DateTime, default=datetime.now())
-    user_id = db.Column(db.Integer, db.ForeignKey("user.userid"), nullable=True)
+    user_id = db.Column(db.String(128), db.ForeignKey("user.userid"), nullable=True)
     tags = db.relationship('Tag', secondary='posts_tags', 
                            backref=db.backref('posts'),
                            lazy='dynamic')
